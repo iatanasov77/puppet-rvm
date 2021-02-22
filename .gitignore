@@ -18,3 +18,10 @@ Puppetfile.lock
 .*.sw?
 .yardoc/
 Guardfile
+
+##############################
+# Eclipse project meta data
+##############################
+/.settings/
+/.buildpath
+/.project

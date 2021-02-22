@@ -20,5 +20,5 @@ class rvm::dependencies::centos {
 
   ensure_packages(['which','gcc','gcc-c++','make','gettext-devel','expat-devel','zlib-devel','openssl-devel',
       'perl','cpio','gettext-devel','wget','bzip2','libxml2','libxml2-devel','libxslt','libxslt-devel',
-  'readline-devel','patch','git','libyaml-devel','libffi-devel','libtool','bison'])
+  'readline-devel','patch','libyaml-devel','libffi-devel','libtool','bison'])
 }
